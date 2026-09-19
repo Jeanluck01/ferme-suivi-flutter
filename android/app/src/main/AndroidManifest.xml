@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="ferme_suivi"
+        android:label="Ferme Suivi"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
